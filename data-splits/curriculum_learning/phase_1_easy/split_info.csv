@@ -1,0 +1,2 @@
+experiment,train_samples,val_samples,test_samples,train_human,train_synthetic,val_human,val_synthetic,test_human,test_synthetic
+Curriculum - Phase 1 Easy,3391,727,375,1750,1641,375,352,375,0

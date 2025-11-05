@@ -1,0 +1,7 @@
+experiment,train_samples,val_samples,test_samples,train_human,train_synthetic,val_human,val_synthetic,test_human,test_synthetic
+Mixed Data - 100% Synthetic,5572,1194,375,1750,3822,375,819,375,0
+Mixed Data - 75% Synthetic,4612,986,375,1750,2862,375,611,375,0
+Mixed Data - 50% Synthetic,3659,783,375,1750,1909,375,408,375,0
+Mixed Data - 25% Synthetic,2704,579,375,1750,954,375,204,375,0
+Human-Only Baseline,1750,375,375,1750,0,375,0,375,0
+Synthetic-Only (Stratified),3822,819,375,0,3822,0,819,375,0

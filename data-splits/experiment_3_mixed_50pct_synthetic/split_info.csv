@@ -1,0 +1,2 @@
+experiment,train_samples,val_samples,test_samples,train_human,train_synthetic,val_human,val_synthetic,test_human,test_synthetic
+Mixed Data - 50% Synthetic,3659,783,375,1750,1909,375,408,375,0

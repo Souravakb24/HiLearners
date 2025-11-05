@@ -1,0 +1,2 @@
+experiment,train_samples,val_samples,test_samples,train_human,train_synthetic,val_human,val_synthetic,test_human,test_synthetic
+Curriculum - Phase 2 Medium,5492,1177,375,1750,3742,375,802,375,0

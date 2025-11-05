@@ -1,0 +1,2 @@
+experiment,train_samples,val_samples,test_samples,train_human,train_synthetic,val_human,val_synthetic,test_human,test_synthetic
+Curriculum - Phase 3 Hard,5572,1194,375,1750,3822,375,819,375,0
